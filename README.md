@@ -1,16 +1,16 @@
 <div align="center">
   
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; Welcome! &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; AdviseMe App &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 </div>
 
 <p align="center">
-   My name is Shivam. This is the repository for my personal website! I had a lot of fun creating this, and I hope you like it!
+   My name is Shivam Gupta. This is the repository for my AdviseMe App! I had a lot of fun creating this, and I hope you like it!
 </p>
 
 
 
-# Welcome to my AdviseMe App!
+## Mission
 
 This app was created in order to help computer science students at the Ohio State University deal with the advisor crisis. The app provides a planned layout for all the classes that a computer science student must take for every fall and spring semester. The goal is to ease tension when scheduling classes and figuring out how to graduate on time. Enjoy!
 
